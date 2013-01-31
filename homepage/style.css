@@ -9,14 +9,28 @@ body {
 .header {
   font-family: 'Fjalla One', sans-serif;
   color: white;
-  text-align: center;
-  font-size: 60px;
+  font-size: 70px;
+  margin-left: 250px;
+  margin-right:300px;
+  width: 70%;
 }
 
 .slogan {
   font-family: 'Roboto Condensed', sans-serif;
   color: white;
-  text-align: center;
-  
+  font-size: 20px;
+  margin-left:280px;
+  margin-right:300px;
+  width: 70%;
+}
+
+.icons {
+  margin-left:200px;
+  margin-right:auto;
+  width: 70%;
+}
+
+.icon {
+  padding: 25px 10px 0px 10px
 }
 
