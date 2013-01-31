@@ -27,8 +27,8 @@
 
 .content {
   background-color: #ff9e73;
-  float:left;
-  width:640px;
+  float: left;
+  width:690px;
   padding: 0px 10px;
 }
 
@@ -41,13 +41,25 @@
   font-size: 25px;
 }
 
+.entry a {
+  color: white;
+}
+
 .navigation {
   background-color:#bf5d30;
   float:right;
-  width:280px;
+  width:230px;
   padding: 0px 10px;
 }
 
 .posts {
   font-family: 'Roboto Condensed', sans-serif;
+}
+
+.posts h4 {
+  padding: 10px 10px 0px 20px;
+}
+
+.posts p {
+  padding: 0px 0px 0px 60px;
 }
