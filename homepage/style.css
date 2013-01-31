@@ -1,0 +1,22 @@
+body {
+  background-color: #ff4f00;
+}
+
+.container {
+  margin: 100px;
+}
+
+.header {
+  font-family: 'Fjalla One', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 60px;
+}
+
+.slogan {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+  text-align: center;
+  
+}
+
