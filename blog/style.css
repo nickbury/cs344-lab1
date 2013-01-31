@@ -60,6 +60,12 @@
   padding: 10px 10px 0px 20px;
 }
 
-.posts p {
+.posts ul {
   padding: 0px 0px 0px 60px;
+  list-style: none;
+}
+
+.posts p {
+  font-size: 12px;
+  padding: 0px 10px;
 }
